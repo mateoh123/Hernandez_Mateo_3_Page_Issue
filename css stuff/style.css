@@ -1,0 +1,102 @@
+body {
+    background-color: #030040;
+}
+
+h1 {
+    color: beige;
+    text-align: center;
+    font-size: 100px;
+}
+
+.earth {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border-radius: 10%;
+}
+
+.hurricane {
+    float: left;
+    margin-right: auto;
+    margin-bottom: 50px;
+    border-radius: 10%;
+}
+
+.flood {
+    display: flex;
+    margin-left: auto;
+    margin-bottom: 50px;
+    border-radius: 10%;
+}
+
+.fire {
+    display: flex;
+    margin-left: auto;
+    border-radius: 10%;
+}
+
+
+
+ul {
+  margin: 0;
+  padding: 0;
+  display: inline;
+  background-color: #403c91;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.coal {
+    margin: 0px 0px 15px 20px;
+    display: block;
+    float: right;
+
+}
+
+.fracking {
+    margin: 0px 0px 15px 20px;
+    display: block;
+    float: right;
+
+}
+
+.deforestation {
+    display: block;
+    float: right;
+    margin: 0px 0px 15px 20px;
+}
+
+.energy {
+    margin: 0px 0px 15px 20px;
+    display: block;
+    float: right;
+
+}
+
+.congress {
+    margin: 0px 15px 20px 0px;
+    display: block;
+    float: left;
+
+}
+
+.recycling {
+    display: block;
+    float: right;
+    margin: 0px 0px 15px 20px;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+}
+
